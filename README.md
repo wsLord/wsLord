@@ -41,6 +41,15 @@
 
 </p>
 <br />
+<br />
+<br />
+
+<details>
+  <summary>:trophy: GitHub Stats</summary>
+
+  <img align="left" alt="wsLord GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wsLord&show_icons=true&hide_border=true" />
+
+</details>
 
 <!--
 ## :trophy: My Github Stats:
