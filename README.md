@@ -46,27 +46,12 @@
 
 <details>
   <summary>:trophy: GitHub Stats</summary>
-
-  <img align="left" alt="wsLord GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=wsLord&show_icons=true&hide_border=true" />
+  
+  <br>
+  <img align="left" alt="wsLord GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=wsLord&count_private=true&theme=vue&showicons=true" />
+  <img align="" alt="wsLord GitHub Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wsLord&langs_count=5&theme=vue" />
 
 </details>
-
-<!--
-## :trophy: My Github Stats:
-
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=wsLord&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=wsLord&hide=php&theme=tokyonight)
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=wsLord&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=wsLord&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=wsLord&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=wsLord&hide=php&theme=tokyonight" />
-</a>
-</div>
--->
-
 
 [website]: https://wsLord.github.io/
 [mail]: mailto:priyanshusmvs@gmail.com
